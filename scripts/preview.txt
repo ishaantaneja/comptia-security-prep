@@ -1,0 +1,198 @@
+SECURITY + Set 2
+
+
+
+A Chief Information Security Officer wants to monitor the company's servers for SQLi attacks and allow for comprehensive investigations if an attack occurs. The company uses SSL decryption to allow traffic monitoring. Which of the following strategies would best accomplish this goal?
+
+A. Logging all NetFlow traffic into a SIEM
+
+B. Deploying network traffic sensors on the same subnet as the servers
+
+C. Logging endpoint and OS-specific security logs
+
+D. Enabling full packet capture for traffic entering and exiting the servers
+
+
+
+
+
+A company is developing a critical system for the government and storing project information on a fileshare. which of the the following describes how this data will most likely be classified ?
+
+Private 
+
+Confidential 
+
+ Public 
+
+Operational 
+
+Urgent 
+
+Restricted
+
+
+
+Which of the following describes the reason root cause analysis should be conducted as part of incident response?
+
+A. To gather IoCs for the investigation
+
+B. To discover which systems have been affected
+
+C. To eradicate any trace of malware on the network
+
+D. To prevent future incidents of the same nature
+
+
+
+Which of the following vulnerabilities is exploited when an attacker overwrites a register with a malicious address? 
+
+A. VM escape
+
+B. SQL injection
+
+C. Buffer overflow
+
+D. Race condition
+
+
+
+A company would like to provide employees with computers that do not have access to the internet in order to prevent information from being leaked to an online forum. Which of the following would be best for the systems administrator to implement?
+
+Air gap
+
+Jump server
+
+Logical segmentation
+
+Virtualization
+
+
+
+
+
+ Which of the following should a systems administrator set up to increase the resilience of an application by splitting the traffic between two identical sites?
+
+A. Load balancing
+
+B. Parallel processing
+
+C. Failover
+
+D. Geographic disruption
+
+
+
+A systems administrator set up a perimeter firewall but continues to notice suspicious connections between internal endpoints. Which of the following should be set up in order to mitigate the threat posed by the suspicious activity?
+
+Host-based Firewall
+
+Web application firewall 
+
+Access control list
+
+Application allow list 
+
+
+
+A systems administrator notices that the research and development department is not using the company VPN when accessing various company-related services and systems. Which of the following scenarios describes this activity?
+
+A. Espionage
+
+B. Data exfiltration
+
+C. Nation-state attack
+
+D. Shadow IT
+
+
+
+An administrator discovers that some files on a database server were recently encrypted. The administrator sees from the security logs that the data was last accessed by a domain user. Which of the following best describes the type of attack that occurred? 
+
+A. Insider threat 
+
+B. Social engineering 
+
+C. Watering-hole 
+
+D. Unauthorized attacker 
+
+
+
+After a recent vulnerability scan, a security engineer needs to harden the routers within the corporate network. Which of the following is the most appropriate to disable?
+
+A. Console access
+
+B. Routing protocols
+
+C. VLANs
+
+D. Web-based administration 
+
+
+
+A systems administrator would like to deploy a change to a production system. Which of the following must the administrator submit to demonstrate that the system can be restored to a working state in the event of a performance issue?
+
+A. Backout plan
+
+B. Impact analysis
+
+C. Test procedure
+
+D. Approval procedure
+
+
+
+Which of the following most impacts an administrator's ability to address CVEs discovered on a server?
+
+A. Rescanning requirements
+
+B. Patch availability
+
+C. Organizational impact
+
+D. Risk tolerance
+
+
+
+An organization is looking to optimize its environment and reduce the number of patches necessary for operating systems. Which of the following will best help to achieve this objective?   
+
+A. Microservices
+
+B. Virtualization
+
+C. Real-time operating system
+
+D. Containers
+
+
+
+The CIRT is reviewing an incident that involved a human resources recruiter exfiltrating sensitive company data. The CIRT found that the recruiter was able to use HTTP over port 53 to upload documents to a web server. Which of the following security infrastructure devices could have identified and blocked this activity?
+
+A. WAF utilizing SSL decryption
+
+B. NGFW utilizing application inspection
+
+C. UTM utilizing a threat feed
+
+D. SD-WAN utilizing IPSec 
+
+
+
+An engineer needs to find a solution that creates an added layer of security by preventing unauthorized access to internal company resources. Which of the following would be the best solution? 
+
+RDP server 
+
+Jump-server 
+
+Proxy server 
+
+Hypervisor
+
+
+
+
+
+
+
+
+
